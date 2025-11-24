@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "jinna",
+      "email": "jinna@example.com"
+    },
+    {
+      "id": "2",
+      "name": "sanjay",
+      "email": "sanjay@example.com"
+    },
+    {
+      "id": "3",
+      "name": "sujith",
+      "email": "sujith@example.com"
+    },
+    {
+      "id": "6989",
+      "name": "Nandhaa",
+      "email": "nandhaa@gmail.com"
+    },
+    {
+      "id": "5e6b",
+      "name": "sangeetha",
+      "email": "sangeetha@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Laptop",
+      "price": 75000
+    },
+    {
+      "id": "2",
+      "title": "Phone",
+      "price": 25000
+    },
+    {
+      "id": "4",
+      "title": "Phone",
+      "price": 25000
+    }
+  ]
+}
